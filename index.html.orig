@@ -1,0 +1,188 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Issue 1</title>
+</head>
+
+<body>
+
+<p><A NAME="Top"></A><img border="0" src="icslogo.bmp" width="786" height="94"></p>
+<p><font face="Verdana">The Journal <i><b>Intelligent Cybernetic Systems </b>
+</i>(<i>ICS</i>) published high quality research papers containing original 
+contributions in experimental, theoretical and applied aspects of intelligent 
+systems and cybernetics. Due however to other commitments, the group running the 
+journal has decided not to accept any more submissions. Please follow the short 
+cuts below, to find the papers that have been published.</font></p>
+<table border="1" cellpadding="0" style="border-collapse: collapse" width="100%" id="table1">
+	<tr>
+		<td><font face="Verdana"><A HREF = "#Issue12005">Issue 1 2005</A></font></td>
+		<td><font face="Verdana"><A HREF = "#Issue22005">&nbsp;Issue 2 2005</A></font></td>
+		<td><font face="Verdana"><A HREF = "#Issue12006">Issue 1 2006 </A></font></td>
+		<td><font face="Verdana"><A HREF = "#Issue22006">&nbsp;Issue 2 2006</A></font></td>
+		<td><font face="Verdana"><A HREF = "#Issue12009">&nbsp;Issue 1 2009 </A></font></td>
+	</tr>
+</table>
+<p><A NAME="Issue12005"></A><font face="Verdana"><b><span style="color: blue">Issue 1, 2005</span></b></font></p>
+<p><font face="Verdana"><b><span style="color: green">1. 
+<a href="ICS2005Vol1XinYao.pdf">
+<font color="#008000">Artificial Speciation of Neural Network Ensembles</font></a></span></b></font></p>
+<p><span style="font-family: Verdana"><b>Vineet R. Khare and Xin Yao</b></span></p>
+<p><span style="font-family: Verdana">School of Computer Science, The University 
+of Birmingham.</span></p>
+<p><font face="Verdana"><b><span style="color: green">2. 
+<a href="ICS2005Vol1XiaoqiMa.pdf">
+<font color="#008000">Verifying Cryptographic Protocols</font></a></span></b></font></p>
+<p><span style="font-family: Verdana"><b>Xiaoqi Ma and Xiaochun Cheng</b></span></p>
+<p><span style="font-family: Verdana">Department of Computer Science, The 
+University of Reading.</span></p>
+<p><font face="Verdana"><b><span style="color: green">3.
+<a href="ICS2005Vol1JohnStQuinton.pdf"><font color="#008000">A Language for 
+provably-complete System Specifications</font></a> </span></b></font></p>
+<p><span style="font-family: Verdana"><b>Kit Grindley, John St.Quinton and Frances 
+Stubbs</b></span></p>
+<p><span style="font-family: Verdana">The Systematics Research Group. UK</span></p>
+<p><font face="Verdana"><b><span style="color: green">4.
+<a href="ICS2005Vol1BellottoHu.pdf"><font color="#008000">Multisensor Integration for 
+Human-Robot Interaction</font> </a></span></b></font></p>
+<p><span style="font-family: Verdana"><b>Nicola Bellotto and Huosheng Hu</b></span></p>
+<p><span style="font-family: Verdana">Department of Computer Science, University 
+of Essex.</span></p>
+<p><font face="Verdana"><A HREF = "#Top">Back to top</A></font></p>
+<p><A NAME="Issue22005"></A><font face="Verdana"><b><span style="color: blue">Issue 2, 2005</span></b></font></p>
+<p><font face="Verdana"><b><span style="color: green">1. 
+<a href="ICS2005Vol2HongWang.pdf">
+<font color="#008000">Iterative B-spline Neural Networks for Stochastic 
+Distribution Control and Its Application in Industrial Process </font></a>
+</span></b></font></p>
+<p class="MsoNormal"><span style="font-family: Verdana; font-weight:700">Hong Wang and Hong Yue</span></p>
+<p><span style="font-family: Verdana">The University of Manchester, UK</span></p>
+<p class="MsoNormal"><font face="Verdana"><b><span style="color: green">2.&nbsp;</span><a href="ICS2005Vol2Chandimal.pdf"><span style="color: green">Learning 
+of Object Identification by Robots Controlled by Natural Language</span></a></b></font></p>
+<p class="MsoNormal"><span style="font-family: Verdana; font-weight:700">Chandimal Jayawardena, 
+Keigo Watanabe and Kiyotaka Izumi</span></p>
+<p class="MsoNormal"><span style="font-family: Verdana">Department of Advanced 
+Systems Control Engineering, Graduate School of Science 
+and Engineering, Saga University, Saga 
+840-8502, Japan</span></p>
+<p class="MsoNormal"><font face="Verdana"><b><span style="color: green">3.
+<a href="ICS2005Vol2Gabbar.pdf"><font color="#008000">Computer-Aided 
+Modelling Environment for Future Energy Production Systems</font></a></span></b></font></p>
+<p class="MsoNormal"><span style="font-family: Verdana; font-weight:700">Hossam A.Gabbar, Haiquan 
+Feng, Satoshi Tanaka</span></p>
+<p class="MsoNormal"><span style="font-family: Verdana">Department of Systems 
+Engineering, Okayama University, 3-1-1 
+Tsushima-Naka, 700-8530 Okayama City, Japan</span></p>
+<p class="MsoNormal"><font face="Verdana"><b><span style="color: green">4.
+<a href="ICS2005Vol2Duffy.pdf"><font color="#008000">A Vicarious 
+Adrenaline System: Developing Immersive Haptic Experiences</font></a></span></b></font></p>
+<p class="MsoNormal"><span style="font-family: Verdana; font-weight:700">Brian. R. Duffy </span>
+</p>
+<p><span style="font-family: Verdana">Multimedia Communications Department, Institut Eurécom, 2229 
+Route des Crêtes, BP 193 - F 06904, Sophia-Antipolis, France </span>
+</p>
+<p class="MsoNormal"><span style="font-family: Verdana"><b>Angel Mur Guerri</b> </span>
+</p>
+<p class="MsoNormal"><span style="font-family: Verdana">School of Computer Science 
+and Informatics, UCD-Dublin</span></p>
+<p><font face="Verdana"><A HREF = "#Top">Back to top</A></font></p>
+<p><A NAME="Issue12006"></A><font face="Verdana"><b><span style="color: blue">Issue 1, 2006&nbsp;</span></b></font></p>
+<p><font face="Verdana"><b><span style="color: green">1.
+<a href="ICS2006Vol1Karcanias.pdf"><font color="#008000">Integration in 
+Advanced Manufacturing: A Systems And Control Perspective</font></a></span></b></font></p>
+<p><span style="font-family: Verdana; font-weight:700">Nicos Karcanias, David W. Stupples and 
+Konstantina Milioti</span></p>
+<p><span style="font-family: Verdana">Centre for Systems &amp; Modelling and Control 
+Engineering Centre, Department of Electrical, Electronic and 
+Information Engineering, City University, London.</span></p>
+<p><font face="Verdana"><b><span style="color: green">2. <font color="#008000">
+<a style="color: green" href="ICS2006Vol1Galway.pdf">Automatic Creation of Functional Sub-Networks Using Genetic Algorithms</a></font></span></b></font></p>
+<p><b><font face="Verdana">LB Galway and NH Siddique</font></b></p>
+<p><font face="Verdana">School of Computing and Intelligent Systems, University 
+of Ulster </font></p>
+<p class="MsoNormal"><font face="Verdana"><span style="color: green"><b>3. </b>
+</span><font color="#008000"><b><a href="ICS2006Vol1Xiao.pdf">
+<span style="color: green">Building Superquadric Men from 3D 
+Whole-Body Scan </span> </a></b><a href="ICS2006Vol1Xiao.pdf"> <span style="font-size: 13.5pt; color: green">Data</span></a></font></font></p>
+<p class="MsoNormal"><b><font face="Verdana">Yijun Xiao and J. Paul Siebert</font></b></p>
+<p class="MsoNormal"><font face="Verdana">Department of Computing Science, 
+University of Glasgow, Glasgow, United Kingdom</font></p>
+<p><font face="Verdana"><b><span style="color: green">4.
+<a href="ICS2006Vol1Han.pdf">
+<font color="#008000">Rough Set Involving with Fuzzy Weights</font></a></span></b></font></p>
+<p><span style="font-family: Verdana; font-weight:700">Hugang Han, and Akira Ikuta</span></p>
+<p><span style="font-family: Verdana">Faculty of MIS, Prefectural University of 
+Hiroshima, 1-1-71 Ujina, Minami-ku, Hiroshima-city, 
+Hiroshima, 734-8558, Japan</span></p>
+<p><font face="Verdana"><A HREF = "#Top">Back to top</A></font></p>
+<p><A NAME="Issue22006"></A><font face="Verdana"><b><span style="color: blue">Issue 2, 2006</span></b></font></p>
+<p><font face="Verdana"><b><span style="color: green">1. <font color="#008000">
+<a href="ICS2006Vol2Feng.pdf"><font color="#008000">Research on Grey Relation Analysis of Chemical Plant Accidents</font></a></font></span></b></font></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<span style="font-family: Verdana; font-weight:700">Haiquan FENG, Hossam A.GABBAR and Kazuhiko 
+SUZUKI</span></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<font face="Verdana">&#12288;</font></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<span style="font-family: Verdana">Advanced System Safety Laboratory, Department 
+of Systems Engineering, Okayama University, 1-1-1 Tusima-naka, Okayama, JAPAN</span></p>
+<p><font face="Verdana"><b><span style="color: green">2.
+<a href="ICS2006Vol2Marumo.pdf"><font color="#008000">Comparative performance 
+Analysis of the Machine Intelligent Quotient (MIQ) and Human –Machine 
+Cooperative Systems</font></a></span></b></font></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<span style="font-family: Verdana; font-weight:700">Rapelang R. Marumo</span></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<font face="Verdana">&#12288;</font></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<span style="font-family: Verdana">Department of Mechanical Engineering, University of BotswanaGaborone, Botswana.&nbsp; </span>
+</p>
+<p><font face="Verdana"><b><span style="color: green">3.
+<a href="ICS2006Vol2Li.pdf">
+<font color="#008000">Mining Process Models with Duplicate Tasks from Work flow 
+Logs</font></a>&nbsp; </span></b></font></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<span style="font-family: Verdana; font-weight:700">JiaFei Li, Dayou Liu</span></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<font face="Verdana">&#12288;</font></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<span style="font-family: Verdana">College of Computer Science &amp; Technology, JiLin University, Changchun, 130012, China</span></p>
+<p><font face="Verdana"><b><span style="color: green">4.
+<a href="ICS2006Vol2Wei.pdf">
+<font color="#008000">Sliding Window Based Resource-Allocating Network</font></a></span></b></font></p>
+<p class="MsoNormal"><span style="font-family: Verdana; font-weight:700">Haikun Wei and Qi Li</span></p>
+<p class="MsoNormal"><span style="font-family: Verdana">Department of Automatic 
+Control, Southeast University, Nanjing, China</span></p>
+<p class="MsoNormal"><span style="font-family: Verdana; font-weight:700">Xinming Jin</span></p>
+<p class="MsoNormal"><span style="font-family: Verdana">System Integration 
+Division, LSC Group, Lichfield, WS13 8RZ, UK</span></p>
+<p><font face="Verdana"><A HREF = "#Top">Back to top</A></font></p>
+<p><A NAME="Issue12009"></A><font face="Verdana"><b><span style="color: blue">Issue 1, 2009</span></b></font></p>
+<p><font face="Verdana"><b><span style="color: green">1. 
+<a href="ICS2009Vol1Chavez.pdf"><font color="#008000">Sensor Data Fusion 
+Architecture for a Mobile Robot Application Using SIFT and Sonar Measurements</font></a></span></b></font></p>
+<font FACE="Verdana">
+<p ALIGN="LEFT"><b>Alfredo Chavez Plascencia and Jan Dimon Bendtsen</b></p>
+<p ALIGN="LEFT">Department of Electronic Systems, Automation and Control, 
+Fredrik Bajers Vej 7C, 9220 Aalborg, Denmark</p>
+</font>
+<p><font face="Verdana"><b><span style="color: green">2.
+<a href="ICS2009Vol1Subudhi.pdf"><font color="#008000">Nonlinear System 
+Identification using Opposition Based Learning Differential Evolution and Neural 
+Network Techniques</font></a></span></b></font></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<span style="font-family: Verdana; font-weight:700">Bidyadhar Subudhi and 
+Debashisha Jena</span></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<font face="Verdana">&#12288;</font></p>
+<p style="margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt">
+<span style="font-family: Verdana">Center for Industrial Electronics and 
+Robotics, Dept. of Electrical Engineering, National Institute of Technology, 
+Rourkela, India-769008</span></p>
+<p><font face="Verdana"><A HREF = "#Top">Back to top</A></font></p>
+
+</body>
+
+</html>
